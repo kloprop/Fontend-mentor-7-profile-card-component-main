@@ -63,7 +63,7 @@ img {
 .card__footer {
   border: 1px solid rgb(200, 200, 200);
   display: flex;
-  justify-content: space-evenly;
+  justify-content: space-around;
   padding: 1rem;
 }
 .container--flex {
